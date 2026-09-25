@@ -1,4 +1,9 @@
-# AntherListen
+<h1 align="center">
+  <img src="logo.png" alt="AntherListen Logo">
+  <br>
+  AntherListen
+</h2>
+
 
 AntherListen is a clean, lightweight, ad-free online music streaming player built for Android. Powered by YouTube and YouTube Music backends, it lets you stream, search, and manage your music library without interruptions or track limits.
 
@@ -19,7 +24,7 @@ AntherListen is a clean, lightweight, ad-free online music streaming player buil
 
 Grab the latest compiled **FOSS Release APK** from the official releases page:
 
-👉 **[Download Latest APK](https://github.com/anagh9090/AntherListen/releases/latest)**
+👉 **[Download Latest APK](https://github.com/anagh9090/AntherListen-Online/releases/latest)**
 
 ---
 
