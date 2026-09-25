@@ -24,7 +24,9 @@ AntherListen is a clean, lightweight, ad-free online music streaming player buil
 
 Grab the latest compiled **FOSS Release APK** from the official releases page:
 
-👉 **[Download Latest APK](https://github.com/anagh9090/AntherListen-Online/releases/latest)**
+<a href="https://github.com/anagh9090/AntherListen-Online/releases/latest/download/AntherListen-Signed.apk">
+  <img src="https://img.shields.io/badge/Download_APK-AntherListen-101010?style=for-the-badge&logo=getpocket&logoColor=white&color=0D1117&labelColor=21262D" alt="Download AntherListen APK" />
+</a>
 
 ---
 
