@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" alt="AntherListen Logo">
+  <img src="logo.png" width="128" height="128" alt="AntherListen Logo">
   <br>
   AntherListen
 </h2>
